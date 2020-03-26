@@ -1,4 +1,4 @@
-# 蛋
+# 蛋生蛋
 
 [依赖注入](https://github.com/sealday/Egg/issues/5)
 
